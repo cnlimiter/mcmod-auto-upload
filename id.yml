@@ -1,0 +1,15 @@
+McBot:
+  classID: 4903
+  platformList: 1
+  apiList: 1
+  tagList: server
+McBot-forge:
+  classID: 4903
+  platformList: 1
+  apiList: 1
+  tagList: server
+McBot-fabric:
+  classID: 4903
+  platformList: 1
+  apiList: 1
+  tagList: server
